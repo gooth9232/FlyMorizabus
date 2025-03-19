@@ -25,6 +25,9 @@ https://github.com/gooth9232/FlyMorizabus/releases/download/1.0.0/FlyMorizabus_1
 ・表示された「The Best Watch」のウィジェット画面を長押しし、お好きな空いた場所に持っていく。  
 ![Wedget](https://github.com/gooth9232/FlyMorizabus/blob/master/img/app_wedget.png)  
   
+・１分ごとに日本各地をモリザバスが巡ります（現在１１都市）。  
+　福岡→出雲→広島→福山→岡山→松山→徳島→大阪→川崎→福島→仙台  
+  
 ・ウィジェット画面にタップすることで更新（ワチャワチャ）しますのでお楽しみください。  
     
 ## 注意事項  
