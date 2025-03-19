@@ -16,7 +16,7 @@
 　※すでに旧版がインストールされている場合は、先にウィジェットの削除／アンインストールを行ってください。  
   
 ![WatchFace](https://github.com/gooth9232/FlyMorizabus/blob/master/img/app_preview.png)  
-https://github.com/gooth9232/FlyMorizabus/releases/download/v1.0.0/FlyMorizabus_100.apk  
+https://github.com/gooth9232/FlyMorizabus/releases/download/v1.0.1/FlyMorizabus_101.apk  
   
 ③ウィジェットの配置  
 ・ホーム画面の何もない場所を長押し→[ウィジェット]を選択  
@@ -28,6 +28,9 @@ https://github.com/gooth9232/FlyMorizabus/releases/download/v1.0.0/FlyMorizabus_
 　福岡→出雲→広島→福山→岡山→松山→徳島→大阪→川崎→福島→仙台  
   
 ・ウィジェット画面にタップすることで更新（ワチャワチャ）しますのでお楽しみください。  
+  
+## v1.0.1修正内容  
+・画面上部の都市名/時刻が見切れる場合があるので位置を修正  
     
 ## 注意事項  
 ・ウィジェット配置直後にタップに反応しない場合、次の時刻更新が自動で行われるまでそのままお待ちください（1分程度）。  
