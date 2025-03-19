@@ -16,8 +16,7 @@
 　※すでに旧版がインストールされている場合は、先にウィジェットの削除／アンインストールを行ってください。  
   
 ![WatchFace](https://github.com/gooth9232/FlyMorizabus/blob/master/img/app_preview.png)  
-https://github.com/gooth9232/FlyMorizabus/releases/download/1.0.0/FlyMorizabus_100.apk  
-  
+https://github.com/gooth9232/FlyMorizabus/releases/download/v1.0.0/FlyMorizabus_100.apk  
   
 ③ウィジェットの配置  
 ・ホーム画面の何もない場所を長押し→[ウィジェット]を選択  
