@@ -20,8 +20,8 @@ https://github.com/gooth9232/FlyMorizabus/releases/download/v1.0.1/FlyMorizabus_
   
 ③ウィジェットの配置  
 ・ホーム画面の何もない場所を長押し→[ウィジェット]を選択  
-・表示された一覧から「The Best Watch」を探す  
-・表示された「The Best Watch」のウィジェット画面を長押しし、お好きな空いた場所に持っていく。  
+・表示された一覧から「日本を巡れ！モリザバス！」を探す  
+・表示された「日本を巡れ！モリザバス！」のウィジェット画面を長押しし、お好きな空いた場所に持っていく。  
 ![Wedget](https://github.com/gooth9232/FlyMorizabus/blob/master/img/app_wedget.png)  
   
 ・１分ごとに日本各地をモリザバスが巡ります（現在１１都市）。  
